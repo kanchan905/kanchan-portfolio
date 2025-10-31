@@ -2,7 +2,7 @@
 Welcome to my personal portfolio! This project showcases my skills, projects, and experience as a web developer, with a focus on backend development, database management, and creative problem-solving.
 
 🔗 Live Demo
-Check it out here: kanchan-portfolio (Update this link if deployed elsewhere)
+Check it out here: kanchan-portfolio (https://kanchan-portfolio-plum.vercel.app/)
 
 🛠️ Tech Stack
 This portfolio is built using:
