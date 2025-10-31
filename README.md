@@ -1,73 +1,70 @@
-# Welcome to your Lovable project
+🌟 Kanchan's Portfolio
+Welcome to my personal portfolio! This project showcases my skills, projects, and experience as a web developer, with a focus on backend development, database management, and creative problem-solving.
 
-## Project info
+🔗 Live Demo
+Check it out here: kanchan-portfolio (Update this link if deployed elsewhere)
 
-**URL**: https://lovable.dev/projects/f0afa710-4b70-4665-8ed2-47aae380547c
+🛠️ Tech Stack
+This portfolio is built using:
 
-## How can I edit this code?
+React – UI components and routing
 
-There are several ways of editing your application.
+TypeScript – Type-safe development
 
-**Use Lovable**
+Vite – Fast bundling and dev server
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f0afa710-4b70-4665-8ed2-47aae380547c) and start prompting.
+Tailwind CSS – Utility-first styling
 
-Changes made via Lovable will be committed automatically to this repo.
+shadcn/ui – Accessible and customizable UI components
 
-**Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+📁 Project Structure
+Code
+├── public/               # Static assets
+├── src/                  # Source code
+│   ├── components/       # Reusable UI components
+│   ├── pages/            # Portfolio sections (About, Projects, Contact)
+│   ├── styles/           # Tailwind and custom styles
+│   └── App.tsx           # Main app component
+├── index.html            # Entry HTML
+├── package.json          # Project metadata and scripts
+└── README.md             # You're reading it
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+🚀 Getting Started
+To run locally:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+bash
+# Clone the repo
+git clone https://github.com/kanchan905/kanchan-portfolio.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Navigate into the project
+cd kanchan-portfolio
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start the development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+📦 Deployment
+You can deploy this portfolio using:
 
-**Use GitHub Codespaces**
+GitHub Pages
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Vercel
 
-## What technologies are used for this project?
+Netlify
 
-This project is built with:
+Just follow the platform’s instructions for deploying React/Vite projects.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
-## How can I deploy this project?
+✨ Features
+Responsive design for all devices
 
-Simply open [Lovable](https://lovable.dev/projects/f0afa710-4b70-4665-8ed2-47aae380547c) and click on Share -> Publish.
+Smooth scroll and animations
 
-## Can I connect a custom domain to my Lovable project?
+Modular and scalable codebase
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Easy to update content and add new projects
